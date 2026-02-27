@@ -33,7 +33,7 @@ This file takes the raw data in Raw_Data_Post_Condition_Collated.sav and organiz
 ## Metadata Files
 
 ## Final Report
-[Access Here](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Final%20Report.pdf)
+[Access Here](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Final%20Report.pdf)<br>
 This document contains the following information surrounding the project:
 * A 'Data and Metadata Profile' describing the dataset
 * A 'Repository Profile' exploring the best repository for storing the
