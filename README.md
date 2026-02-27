@@ -9,17 +9,37 @@ The following resources are the original files, in their original format, taken 
 
 Raw Data:<br>
    * [Raw_Data_End_Of_Session.sav](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Raw_Data_End_Of_Session.sav)<br>
-   This file contains participants anonymized identifiers, ages, genders, and the number associated with each participant's selected response for a given question. This table does not represent the actual questions the participants answered, nor the answers they chose. Rather, each question and answer is assigned an identifier.<br>
-   This .sav file cannot be opened through GitHub. To view, use... may view a converted pdf version of this file (here)[].<br>
+This file contains participants anonymized identifiers, ages, genders, and the number associated with each participant's selected response to questions Q1a_1 through Q1f_4. These are the set of questions asked in an exit survey after the participant has gone through the experiment. <br>
+   This .sav file cannot be opened through GitHub. To view, download PSPP for free [here](https://www.gnu.org/software/pspp/get.html) and open in the software. <br>
+   
    * [Raw_Data_Post_Condition.sav](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Raw_Data_Post_Condition.sav)
-   * [Raw_Data_Post_Condition_Collated.sav](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Raw_Data_Post_Condition_Collated.sav)<br>
+This file contains participants anonymized identifiers, ages, genders, and the number associated with each participant's select response t0 questions Q1a through Q4b_6. These are a set of survey questions the participants responded to throughout the phases of the experiment. <br>
+   This .sav file cannot be opened through GitHub. To view, download PSPP for free [here](https://www.gnu.org/software/pspp/get.html) and open in the software. <br>
+     
+   * [Raw_Data_Post_Condition_Collated.sav](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Raw_Data_Post_Condition_Collated.sav) <br>
+This file contains the collated data from survey responses throughout the experiment. <br>
+  This .sav file cannot be opened through GitHub. To view, download PSPP for free [here](https://www.gnu.org/software/pspp/get.html) and open in the software. <br>
+
 Codebooks:<br>
    * [End Session Data Codebook.pdf](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/end%20session%20data%20codebook.pdf)
-   * [Post Condition Data Codebook.pdf](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/post%20condition%20data%20codebook.pdf)
-   * [Post Condition Data COLLATED Codebook.pdf](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/post%20condition%20data%20COLLATED%20codebook.pdf)
+This file takes the raw data in Raw_Data_End_Of_Session.sav and organizes it into an accessible and more readable table. This table contains the questions asked, their identifiers in the raw data, possible responses, the raw number of responses associated with a given answer, and the percentage of participants who responded with a given answer. The full file is available for viewing in the GitHub repository. <br>
 
-## Converted Raw Data Files
+   * [Post Condition Data Codebook.pdf](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/post%20condition%20data%20codebook.pdf)
+This file takes the raw data in Raw_Data_Post_Condition.sav and organizes it into an accessible and more readable table. This table contains the questions asked, their identifiers in the raw data, possible responses, the raw number of responses associated with a given answer, and the percentage of participants who responded with a given answer. The full file is available for viewing in the GitHub repository. <br>
+
+   * [Post Condition Data COLLATED Codebook.pdf](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/post%20condition%20data%20COLLATED%20codebook.pdf)
+This file takes the raw data in Raw_Data_Post_Condition_Collated.sav and organizes it into an accessible and more readable table. This table contains the questions asked, their identifiers in the raw data, possible responses, the raw number of responses associated with a given answer, and the percentage of participants who responded with a given answer. The full file is available for viewing in the GitHub repository. <br>
 
 ## Metadata Files
 
 ## Final Report
+[Access Here](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Final%20Report.pdf)
+This document contains the following information surrounding the project:
+* A 'Data and Metadata Profile' describing the dataset
+* A 'Repository Profile' exploring the best repository for storing the
+  dataset
+* Additional Information:
+  * A recommended citation for the dataset
+  * Considerations for long-term preservation
+  * Reccomendations for a copyright license
+  * A statement regarding human subject research
