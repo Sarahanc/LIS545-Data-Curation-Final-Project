@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+    http://datacite.org/schema/kernel-4
+    https://schema.datacite.org/meta/kernel-4/metadata.xsd">
+    <identifier identifierType="DOI">https://doi.org/10.6084/m9.figshare.30692063</identifier>
+    <creators>
+        <creator>
+            <creatorName nameType="Personal">Rogers, Shane</creatorName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/">https://orcid.org/0000-0002-6869-3400</nameIdentifier>
+            <affiliation>Edith Cowan University</affiliation>
+        </creator>
+    </creators>
+    <titles>
+        <title xml:lang="en">User Experience in Virtual Self-Disclosure: Appraising Natural, Urban, and Artifical VR Environments</title>
+    </titles>
+    <publisher xml:lang="en" publisherIdentifier="http://viaf.org/viaf/12150516728903442929" publisherIdentifierScheme="VIAF" schemeURI="https://viaf.org/">figshare</publisher>
+    <publicationYear>2025</publicationYear>
+    <resourceType resourceTypeGeneral="Dataset"/>
+    <subjects>
+        <subject xml:lang="eng" subjectScheme="Library of Congress Subject Headings (LCSH)" schemeURI="https://id.loc.gov/authorities/subjects.html" valueURI="http://id.loc.gov/authorities/subjects/sh85123994">Social psychology</subject>
+        <subject xml:lang="eng" subjectScheme="Library of Congress Subject Headings (LCSH)" schemeURI="https://id.loc.gov/authorities/subjects.html" valueURI="http://id.loc.gov/authorities/subjects/sh92000880">Virtual reality</subject>
+        <subject xml:lang="eng" subjectScheme="Library of Congress Subject Headings (LCSH)" schemeURI="https://id.loc.gov/authorities/subjects.html" valueURI="http://id.loc.gov/authorities/subjects/sh85119736">Self-disclosure</subject>
+        <subject xml:lang="eng" subjectScheme="Library of Congress Subject Headings (LCSH)" schemeURI="https://id.loc.gov/authorities/subjects.html" valueURI="http://id.loc.gov/authorities/subjects/sh85108516">Psychotherapy</subject>
+    </subjects>
+    <dates>
+        <date dateType="Issued">2025-11-23</date>
+    </dates>
+    <language>en</language>
+    <relatedIdentifiers>
+        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy" resourceTypeGeneral="JournalArticle">10.3390/app16010033</relatedIdentifier>
+    </relatedIdentifiers>
+    <sizes>
+        <size>254.36 kB</size>
+    </sizes>
+    <formats>
+        <format>SAV</format>
+        <format>PDF</format>
+    </formats>
+    <rightsList>
+        <rights xml:lang="en" schemeURI="https://spdx.org/licenses/" rightsIdentifierScheme="SPDX" rightsIdentifier="CC-BY-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</rights>
+    </rightsList>
+    <descriptions>
+        <description descriptionType="Abstract">
+            Data for the study titled 'User Experience in Virtual Self-Disclosure: Appraising Natural, Urban, and Artificial VR Environments'
+        </description>
+        <description descriptionType="Abstract">
+            Abstract from the study titled 'User Experience in Virtual Self-Disclosure: Appraising Natural, Urban, and Artificial VR Environments': Virtual reality (VR) offers new opportunities for delivering psychologically meaningful conversations in digitally mediated settings. This study examined how environmental designs influence user experience during emotionally relevant self-disclosure. Fifty university students completed a within-subjects experiment in which they engaged in a structured positive and negative self-disclosure task across four immersive environments (seaside, garden, urban, and sci-fi). After each interaction, participants rated six experiential dimensions relevant to therapeutic communication: comfort, calmness, pleasantness, focus, privacy, and perceived overall suitability for psychological therapy. Repeated-measures analyses showed that nature-themed environments were rated more positively than non-nature environments across all dimensions. Although the seaside and garden environments did not differ in overall composite ratings, the seaside setting was most frequently preferred for comfort, calmness, and pleasantness in participants’ final rankings. These findings demonstrate that virtual environment design meaningfully shapes users’ emotional and interpersonal experience in VR, highlighting the value of nature-based environments for VR counselling systems and digital mental-health applications.
+        </description>
+        <description descriptionType="Other">
+            Data Files in Dataset:<br/>
+            Raw_Data_End_Of_Session.sav<br/>
+            Raw_Data_Post_Condition.sav<br/>
+            Raw_Data_Post_Condition_Collated.sav<br/>
+            end session data codebook.pdf<br/>
+            post condition data codebook.pdf<br/>
+            post condition data COLLATED codebook.pdf<br/>
+        </description>
+    </descriptions>
+    <relatedItems>
+        <relatedItem relatedItemType="JournalArticle" relationType="IsReferencedBy">
+            <relatedItemIdentifier relatedItemIdentifierType="DOI">10.3390/app16010033
+            </relatedItemIdentifier>
+            <creators>
+                <creator>
+                    <creatorName nameType="Personal">Rogers, Shane</creatorName>
+                </creator>
+                <creator>
+                    <creatorName nameType="Personal">Canes, Tasha</creatorName>
+                </creator>
+                <creator>
+                    <creatorName nameType="Personal">Pallister, Alexis</creatorName>
+                </creator>
+            </creators>
+            <publicationYear>2025</publicationYear>
+        </relatedItem>
+    </relatedItems>
+</resource>
