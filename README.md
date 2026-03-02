@@ -30,7 +30,10 @@ This file takes the raw data in Raw_Data_Post_Condition.sav and organizes it int
    * [Post Condition Data COLLATED Codebook.pdf](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/post%20condition%20data%20COLLATED%20codebook.pdf)
 This file takes the raw data in Raw_Data_Post_Condition_Collated.sav and organizes it into an accessible and more readable table. This table contains the questions asked, their identifiers in the raw data, possible responses, the raw number of responses associated with a given answer, and the percentage of participants who responded with a given answer. The full file is available for viewing in the GitHub repository. <br>
 
-## Metadata Files
+## Metadata File
+[Access Here](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Project_Metadata.xml)<br>
+This XML file contains a metadata record for the dataset encoded according to the [DataCite Metadata Schema - Version 4.6](https://datacite-metadata-schema.readthedocs.io/en/4.6/#)<br>
+It is reccommended to use Oxygen XML Editor, or Notepad++ with the XML Tools plugin for opening and editing the file locally.
 
 ## Final Report
 [Access Here](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Final%20Report.pdf)<br>
