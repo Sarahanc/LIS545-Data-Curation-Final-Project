@@ -24,7 +24,7 @@ Codebooks:<br>
    * [End Session Data Codebook.pdf](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Original%20Data%20Files/end%20session%20data%20codebook.pdf)
 This file takes the raw data in Raw_Data_End_Of_Session.sav and organizes it into an accessible and more readable table. This table contains the questions asked, their identifiers in the raw data, possible responses, the raw number of responses associated with a given answer, and the percentage of participants who responded with a given answer. The full file is available for viewing in the GitHub repository. <br>
 
-   * [Post Condition Data Codebook.pdf](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/post%20condition%20data%20codebook.pdf)
+   * [Post Condition Data Codebook.pdf](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Original%20Data%20Files/post%20condition%20data%20codebook.pdf)
 This file takes the raw data in Raw_Data_Post_Condition.sav and organizes it into an accessible and more readable table. This table contains the questions asked, their identifiers in the raw data, possible responses, the raw number of responses associated with a given answer, and the percentage of participants who responded with a given answer. The full file is available for viewing in the GitHub repository. <br>
 
    * [Post Condition Data COLLATED Codebook.pdf](https://github.com/Sarahanc/LIS545-Data-Curation-Final-Project/blob/main/Original%20Data%20Files/post%20condition%20data%20COLLATED%20codebook.pdf)
